@@ -1,0 +1,22 @@
+{
+  "name": "demo-transform-runtime-and-es2015-modules-commonjs-order-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-plugin-syntax-class-properties": "^6.13.0",
+    "babel-plugin-transform-bql": "^1.4.2",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-forbeslindesay": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-template": "^6.24.1"
+  }
+}
